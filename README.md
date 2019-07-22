@@ -1,2 +1,2 @@
-# Jump-n-Run-with-java
-2d jump run programmed with java. slick2d and lwjgl 
+# Jump'n Run.
+This is a 2d jump'n Run Game. I programmed it with java and the libaries: slick2d and lwjgl. 
