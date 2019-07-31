@@ -10,3 +10,7 @@ If you want to build the game you need to include additional libaries:
 # Disclaimer
 See License.
 I dont maintain this project actively. This game is a project from when i was younger and is only on github due to nostalgia reasons and maybe if someone finds a code snippet helpful.
+
+
+# License
+Jump-n-Run-with-java is open-source and MIT licensed. Feel free to browse the repository, learn and reuse parts in your own projects.
